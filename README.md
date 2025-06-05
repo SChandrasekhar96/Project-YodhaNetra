@@ -1,4 +1,4 @@
-# RadarAI Project - Work Log
+# Project-YodhaNetra - Work Log
 
 ## ✅ Done
 - Project folder structure
